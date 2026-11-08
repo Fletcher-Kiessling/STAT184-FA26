@@ -1,4 +1,4 @@
-# install.packages(c("ggplot2", "dplyr", "tidyr", "readr", "sf"))
+install.packages(c("ggplot2", "dplyr", "tidyr", "readr", "sf"))
 library(ggplot2)
 library(dplyr)
 library(tidyr)
